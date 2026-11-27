@@ -50,3 +50,25 @@ This evidence does not establish attacker identity, authorization status, compro
 - Directory enumeration
 - DNS traffic analysis
 - TCP session termination
+  
+## Investigation Evidence
+
+### Main Report
+[Download Network Forensics Report](reports/Investigation_Report.pdf)
+
+### Evidence Files
+- [Evidence Register](evidence/Evidence_Register.csv)
+- [Wireshark Screenshots](evidence/screenshots/)
+- [PCAP Validation](PCAP_Validation.txt)
+
+### Investigation Highlights
+- TCP/53 remote shell analysis
+- Windows XP command-shell identification
+- Directory enumeration
+- DNS traffic analysis
+- TCP session termination
+
+## Disclaimer
+This is an independent training and portfolio case study.
+It does not represent paid client work or professional incident-response employment.
+
