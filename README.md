@@ -96,7 +96,7 @@ Internal IP addresses and DNS responses should not be classified as malicious wi
 - [Detailed Investigation Report](reports/Investigation_Report.pdf)
 - [Evidence Register](evidence/Evidence_Register.csv)
 - [Wireshark Evidence Gallery](evidence/screenshots/)
-- [PCAP Validation](PCAP_Validation.txt)
+- [PCAP Validation](docs/PCAP_Validation.txt)
 
 ## 9. Portfolio Summary
 
