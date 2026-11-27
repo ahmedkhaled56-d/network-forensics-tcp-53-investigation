@@ -34,3 +34,19 @@ This evidence does not establish attacker identity, authorization status, compro
 
 ## Portfolio wording
 "Performed passive PCAP analysis in Wireshark, reconstructed an interactive Windows command-shell exchange over TCP/53, validated command and response payloads, reviewed DNS transactions, and documented findings, indicators, timeline, MITRE mapping, and limitations."
+## Investigation Evidence
+
+### Main Report
+[Download Network Forensics Report](reports/Investigation_Report.pdf)
+
+### Evidence Files
+- [Evidence Register](evidence/Evidence_Register.csv)
+- [Wireshark Screenshots](evidence/screenshots/)
+- [PCAP Validation](PCAP_Validation.txt)
+
+### Investigation Highlights
+- TCP/53 remote shell analysis
+- Windows XP command-shell identification
+- Directory enumeration
+- DNS traffic analysis
+- TCP session termination
